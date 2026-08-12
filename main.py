@@ -126,7 +126,7 @@ async def check_server_status():
         )
 
 # Run Bot
-token = MTUzNzAzNzgwNDM0MzY1NjUyMA.GylohG.d0hB65iS0LCUgogDtd3Ky4jpNegaOJEIGUTyGs
+token = "MTUzNzAzNzgwNDM0MzY1NjUyMA.GylohG.d0hB65iS0LCUgogDtd3Ky4jpNegaOJEIGUTyGs"
 if token:
     bot.run(token)
 else:
